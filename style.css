@@ -1,11 +1,9 @@
- body {
+body {
     color: salmon;
     background-color: black;
     font-family: 'Sacramento', cursive;
-    font-size: 32px;
-    margin-top: 5%;
-    margin-left: 20%;
-    margin-right: 20%;
+    font-size: 150%;
+    margin: 5em 25%;
  }
 
- <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+ <link href = "https://fonts.googleapis.com/css?family=Sacramento" rel= "stylesheet">
